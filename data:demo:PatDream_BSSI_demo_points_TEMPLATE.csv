@@ -1,0 +1,6 @@
+Suburb,State,Country,Providers_Count,Coverage_per_1k,Access_0_100,QualityProxy_0_100
+Werribee,VIC,Australia,6,22,60,38
+Tarneit,VIC,Australia,5,18,55,35
+Craigieburn,VIC,Australia,7,20,58,42
+Cranbourne East,VIC,Australia,4,15,62,33
+Truganina,VIC,Australia,4,14,50,30
